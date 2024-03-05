@@ -1,1 +1,1 @@
-https://github.com/kemalsaeful/pilihiya.github.io
+kemalsaeful.github.io/pilihiya.github.io
